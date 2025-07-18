@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+youtube-transcript-api
+sentence-transformers
+faiss-cpu
+transformers
+torch
+nltk
+yt-dlp
+openai-whisper
